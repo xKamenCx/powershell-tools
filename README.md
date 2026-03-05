@@ -39,11 +39,11 @@ I'm an IT professional with a strong background in service desk support and a gr
 I enjoy solving problems, streamlining processes, and making tech work better for people. I've been involved in cloud migrations, security improvements, and automation with PowerShell. I'm also proud of the certifications I've earned along the way.
 
 
-🎓 Certifications:
-Microsoft Certified: Azure Fundamentals
-ITIL Foundation Certificate in IT Service Management
-City & Guilds Level 3 End-point Assessment – ICT Support Technician
-Level 3 ICT – Cloud Support Specialist (QA Apprenticeships)
+**Certifications:**
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- ITIL Foundation Certificate in IT Service Management
+- City & Guilds Level 3 — ICT Support Technician
+- Level 3 ICT — Cloud Support Specialist (QA Apprenticeships)
 
 ---
 
