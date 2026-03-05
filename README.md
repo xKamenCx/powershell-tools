@@ -34,12 +34,16 @@ This repository is actively being developed. Upcoming scripts will cover:
 
 ## 👨‍💻 About
 
-IT professional with 3+ years of enterprise support experience across Microsoft 365, Azure AD / Entra ID, Intune, Exchange Online, and Active Directory.
+I'm an IT professional with a strong background in service desk support and a growing focus on system administration. I currently support over 500+ users in a hybrid cloud environment, working with Active Directory, Microsoft Intune, Office 365, and Azure AD.
 
-**Certifications:**
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-- ITIL Foundation Certificate in IT Service Management
-- City & Guilds Level 3 — ICT Support Technician
+I enjoy solving problems, streamlining processes, and making tech work better for people. I've been involved in cloud migrations, security improvements, and automation with PowerShell. I'm also proud of the certifications I've earned along the way.
+
+
+🎓 Certifications:
+Microsoft Certified: Azure Fundamentals
+ITIL Foundation Certificate in IT Service Management
+City & Guilds Level 3 End-point Assessment – ICT Support Technician
+Level 3 ICT – Cloud Support Specialist (QA Apprenticeships)
 
 ---
 
